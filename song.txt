@@ -6,11 +6,5 @@ sorry, Dolly
 add more line
 add second line
 let's finish the second couplet 
-----------------------------------------
 
-i am in "feature" branch now 
-and i am adding this text here 
-
-message added in another time
-some more content
 
